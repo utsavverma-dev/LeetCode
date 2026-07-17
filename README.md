@@ -8,6 +8,7 @@ Leetcode problems
 | ------- |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0238-product-of-array-except-self](https://github.com/utsavverma-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -55,4 +56,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/utsavverma-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
