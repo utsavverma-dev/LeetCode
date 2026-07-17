@@ -11,6 +11,7 @@ Leetcode problems
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/utsavverma-dev/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
 ## Design
