@@ -59,6 +59,7 @@ Leetcode problems
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/utsavverma-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/utsavverma-dev/LeetCode/tree/master/0091-decode-ways) |
 | [1143-longest-common-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/1143-longest-common-subsequence) |
@@ -74,6 +75,7 @@ Leetcode problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/utsavverma-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/utsavverma-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/utsavverma-dev/LeetCode/tree/master/0091-decode-ways) |
@@ -87,6 +89,7 @@ Leetcode problems
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/utsavverma-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
