@@ -92,4 +92,12 @@ Leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/utsavverma-dev/LeetCode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/utsavverma-dev/LeetCode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
