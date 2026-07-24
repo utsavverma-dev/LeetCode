@@ -61,6 +61,7 @@ Leetcode problems
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/utsavverma-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/utsavverma-dev/LeetCode/tree/master/0091-decode-ways) |
 | [1143-longest-common-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Sorting
@@ -103,14 +104,20 @@ Leetcode problems
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/utsavverma-dev/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/utsavverma-dev/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/utsavverma-dev/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/utsavverma-dev/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0047-permutations-ii) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
