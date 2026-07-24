@@ -6,6 +6,7 @@ Leetcode problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/utsavverma-dev/LeetCode/tree/master/0053-maximum-subarray) |
@@ -77,6 +78,7 @@ Leetcode problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
@@ -86,4 +88,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
