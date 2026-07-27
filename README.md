@@ -16,6 +16,7 @@ Leetcode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0213-house-robber-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/utsavverma-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
 ## Linked List
 |  |
@@ -48,6 +49,7 @@ Leetcode problems
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Leetcode problems
 | [0072-edit-distance](https://github.com/utsavverma-dev/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/utsavverma-dev/LeetCode/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Two Pointers
 |  |
