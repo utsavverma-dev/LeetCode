@@ -47,6 +47,7 @@ Leetcode problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/utsavverma-dev/LeetCode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -111,6 +112,7 @@ Leetcode problems
 | ------- |
 | [0029-divide-two-integers](https://github.com/utsavverma-dev/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/utsavverma-dev/LeetCode/tree/master/0069-sqrtx) |
 ## Bit Manipulation
 |  |
 | ------- |
