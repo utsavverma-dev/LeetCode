@@ -6,6 +6,7 @@ Leetcode problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/utsavverma-dev/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/utsavverma-dev/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -61,6 +62,7 @@ Leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/utsavverma-dev/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
 ## String
 |  |
