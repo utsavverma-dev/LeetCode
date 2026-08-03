@@ -14,6 +14,7 @@ Leetcode problems
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/utsavverma-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/utsavverma-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/utsavverma-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -87,6 +88,7 @@ Leetcode problems
 | [0053-maximum-subarray](https://github.com/utsavverma-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/utsavverma-dev/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/utsavverma-dev/LeetCode/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/utsavverma-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/1143-longest-common-subsequence) |
