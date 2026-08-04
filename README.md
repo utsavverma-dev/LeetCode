@@ -79,6 +79,7 @@ Leetcode problems
 | [0072-edit-distance](https://github.com/utsavverma-dev/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/utsavverma-dev/LeetCode/tree/master/0091-decode-ways) |
 | [1143-longest-common-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2390-removing-stars-from-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Leetcode problems
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/utsavverma-dev/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [2390-removing-stars-from-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
+| [2390-removing-stars-from-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Database
 |  |
 | ------- |
