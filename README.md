@@ -19,6 +19,7 @@ Leetcode problems
 | [0090-subsets-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utsavverma-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/utsavverma-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -122,6 +123,7 @@ Leetcode problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/utsavverma-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/utsavverma-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0344-reverse-string) |
 ## Stack
@@ -146,6 +148,7 @@ Leetcode problems
 | [0029-divide-two-integers](https://github.com/utsavverma-dev/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/utsavverma-dev/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/utsavverma-dev/LeetCode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
