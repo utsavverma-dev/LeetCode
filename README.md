@@ -71,6 +71,7 @@ Leetcode problems
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ Leetcode problems
 | [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/utsavverma-dev/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/utsavverma-dev/LeetCode/tree/master/0091-decode-ways) |
+| [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [1143-longest-common-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -88,6 +90,7 @@ Leetcode problems
 | [0047-permutations-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
 ## Prefix Sum
 |  |
 | ------- |
