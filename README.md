@@ -40,6 +40,7 @@ Leetcode problems
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
@@ -72,6 +73,7 @@ Leetcode problems
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ Leetcode problems
 | [0072-edit-distance](https://github.com/utsavverma-dev/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/utsavverma-dev/LeetCode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1143-longest-common-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -172,4 +175,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/utsavverma-dev/LeetCode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
