@@ -30,6 +30,7 @@ Leetcode problems
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/utsavverma-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/utsavverma-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/utsavverma-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
