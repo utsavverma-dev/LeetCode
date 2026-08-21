@@ -1,23 +1,19 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        if(s.length()!=t.length()) return false;
-        HashMap<Character,Character>mp=new HashMap<>();
+        int[] freq = new int[512];
 
-        for(int i=0;i<s.length();i++)
-        {
-            if(mp.containsKey(s.charAt(i)))
-            {
-                if(mp.get(s.charAt(i))!=t.charAt(i)) return false;
-            }
-            else if(mp.containsValue(t.charAt(i)))
-            return false;
-            
-            else{
-                mp.put(s.charAt(i),t.charAt(i));
+        for (int i = 0; i < s.length(); i++) {
+            char a = s.charAt(i);
+            char b = t.charAt(i);
+
+            if (freq[a] != freq[256 + b]) {
+                return false;
             }
 
-           
+            freq[a] = i + 1;
+            freq[256 + b] = i + 1;
         }
+
         return true;
     }
 }
