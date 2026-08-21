@@ -105,6 +105,7 @@ Leetcode problems
 | [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0394-decode-string) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1143-longest-common-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/2390-removing-stars-from-a-string) |
@@ -151,6 +152,7 @@ Leetcode problems
 | [0042-trapping-rain-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/utsavverma-dev/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/utsavverma-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -233,6 +235,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/utsavverma-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
