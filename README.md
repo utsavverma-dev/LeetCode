@@ -27,6 +27,7 @@ Leetcode problems
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/utsavverma-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utsavverma-dev/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
@@ -74,6 +75,7 @@ Leetcode problems
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavverma-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/utsavverma-dev/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Tree
@@ -96,6 +98,7 @@ Leetcode problems
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## String
@@ -124,6 +127,7 @@ Leetcode problems
 | [0169-majority-element](https://github.com/utsavverma-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0268-missing-number) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
 |  |
@@ -180,6 +184,7 @@ Leetcode problems
 | [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/utsavverma-dev/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/utsavverma-dev/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -189,6 +194,7 @@ Leetcode problems
 | [0078-subsets](https://github.com/utsavverma-dev/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
