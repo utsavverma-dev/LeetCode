@@ -19,6 +19,7 @@ Leetcode problems
 | [0090-subsets-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utsavverma-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavverma-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/utsavverma-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0213-house-robber-ii) |
@@ -183,6 +184,7 @@ Leetcode problems
 | [0067-add-binary](https://github.com/utsavverma-dev/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/utsavverma-dev/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0136-single-number) |
 ## Backtracking
 |  |
 | ------- |
