@@ -21,6 +21,7 @@ Leetcode problems
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utsavverma-dev/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavverma-dev/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/utsavverma-dev/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/utsavverma-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0213-house-robber-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ Leetcode problems
 | [0053-maximum-subarray](https://github.com/utsavverma-dev/LeetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/utsavverma-dev/LeetCode/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/utsavverma-dev/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/utsavverma-dev/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/utsavverma-dev/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -118,6 +121,7 @@ Leetcode problems
 | ------- |
 | [0047-permutations-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/utsavverma-dev/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -222,6 +226,7 @@ Leetcode problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/utsavverma-dev/LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Depth-First Search
@@ -263,4 +268,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utsavverma-dev/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
