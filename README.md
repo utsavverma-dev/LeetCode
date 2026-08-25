@@ -42,11 +42,13 @@ Leetcode problems
 | [0083-remove-duplicates-from-sorted-list](https://github.com/utsavverma-dev/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utsavverma-dev/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/utsavverma-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
@@ -95,6 +97,7 @@ Leetcode problems
 | ------- |
 | [0001-two-sum](https://github.com/utsavverma-dev/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/utsavverma-dev/LeetCode/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/utsavverma-dev/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/utsavverma-dev/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
@@ -284,4 +287,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/utsavverma-dev/LeetCode/tree/master/0169-majority-element) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
