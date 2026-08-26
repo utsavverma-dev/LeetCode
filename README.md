@@ -49,6 +49,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
@@ -134,6 +135,7 @@ Leetcode problems
 | [0217-contains-duplicate](https://github.com/utsavverma-dev/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/utsavverma-dev/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/utsavverma-dev/LeetCode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Prefix Sum
 |  |
@@ -165,6 +167,7 @@ Leetcode problems
 | [0189-rotate-array](https://github.com/utsavverma-dev/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/utsavverma-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/utsavverma-dev/LeetCode/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utsavverma-dev/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Stack
@@ -270,6 +273,7 @@ Leetcode problems
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
@@ -291,4 +295,8 @@ Leetcode problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
