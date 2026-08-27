@@ -34,6 +34,7 @@ Leetcode problems
 | [0560-subarray-sum-equals-k](https://github.com/utsavverma-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/utsavverma-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/utsavverma-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
@@ -110,6 +111,7 @@ Leetcode problems
 | [0387-first-unique-character-in-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/utsavverma-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/utsavverma-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -146,6 +148,7 @@ Leetcode problems
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/utsavverma-dev/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/utsavverma-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/utsavverma-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/utsavverma-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
