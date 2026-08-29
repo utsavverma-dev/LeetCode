@@ -36,6 +36,7 @@ Leetcode problems
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/utsavverma-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/utsavverma-dev/LeetCode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1472-design-browser-history](https://github.com/utsavverma-dev/LeetCode/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/utsavverma-dev/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
@@ -47,12 +48,14 @@ Leetcode problems
 | [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/utsavverma-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
+| [1472-design-browser-history](https://github.com/utsavverma-dev/LeetCode/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
+| [1472-design-browser-history](https://github.com/utsavverma-dev/LeetCode/tree/master/1472-design-browser-history) |
 | [1845-seat-reservation-manager](https://github.com/utsavverma-dev/LeetCode/tree/master/1845-seat-reservation-manager) |
 ## Queue
 |  |
@@ -187,6 +190,7 @@ Leetcode problems
 | [0094-binary-tree-inorder-traversal](https://github.com/utsavverma-dev/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/utsavverma-dev/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0394-decode-string) |
+| [1472-design-browser-history](https://github.com/utsavverma-dev/LeetCode/tree/master/1472-design-browser-history) |
 | [2390-removing-stars-from-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -306,8 +310,10 @@ Leetcode problems
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/utsavverma-dev/LeetCode/tree/master/1472-design-browser-history) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [1472-design-browser-history](https://github.com/utsavverma-dev/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
