@@ -53,6 +53,7 @@ Leetcode problems
 | [0146-lru-cache](https://github.com/utsavverma-dev/LeetCode/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/utsavverma-dev/LeetCode/tree/master/0622-design-circular-queue) |
+| [1845-seat-reservation-manager](https://github.com/utsavverma-dev/LeetCode/tree/master/1845-seat-reservation-manager) |
 ## Queue
 |  |
 | ------- |
@@ -284,6 +285,7 @@ Leetcode problems
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [1845-seat-reservation-manager](https://github.com/utsavverma-dev/LeetCode/tree/master/1845-seat-reservation-manager) |
 ## Bucket Sort
 |  |
 | ------- |
