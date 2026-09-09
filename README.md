@@ -115,6 +115,7 @@ Leetcode problems
 | [0387-first-unique-character-in-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/utsavverma-dev/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/utsavverma-dev/LeetCode/tree/master/0763-partition-labels) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/utsavverma-dev/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
@@ -134,6 +135,7 @@ Leetcode problems
 | [0394-decode-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utsavverma-dev/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0692-top-k-frequent-words](https://github.com/utsavverma-dev/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0763-partition-labels](https://github.com/utsavverma-dev/LeetCode/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/utsavverma-dev/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/utsavverma-dev/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -182,6 +184,7 @@ Leetcode problems
 | [0295-find-median-from-data-stream](https://github.com/utsavverma-dev/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/utsavverma-dev/LeetCode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/utsavverma-dev/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/utsavverma-dev/LeetCode/tree/master/0763-partition-labels) |
 ## Stack
 |  |
 | ------- |
@@ -200,6 +203,7 @@ Leetcode problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utsavverma-dev/LeetCode/tree/master/0011-container-with-most-water) |
+| [0763-partition-labels](https://github.com/utsavverma-dev/LeetCode/tree/master/0763-partition-labels) |
 ## Math
 |  |
 | ------- |
